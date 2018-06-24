@@ -1,0 +1,20 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Concert One', cursive;
+}
+
+hr {
+    max-width: 730px;
+}
+
+header.startup {
+    background-position: center;
+    background-image: url("background.jpg");
+    background-size: cover;
+    height: 100%;
+}
